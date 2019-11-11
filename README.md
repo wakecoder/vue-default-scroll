@@ -9,6 +9,8 @@ By default, the vue-router doesn't scroll to the top of a page when you navigate
 
 ## How do I use it?
 
+#### NOTE: Your project must use webpack or another bundler that supports es modules (e.g. use the vue-cli)
+
 1. In a shell / command line:
 ``` 
 yarn add vue-default-scroll
