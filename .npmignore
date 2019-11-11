@@ -1,0 +1,17 @@
+.git/
+
+# for VSCode
+.vscode/
+
+# for npm
+node_modules/
+npm-shrinkwrap.json
+
+# exclude tests
+test/
+
+# misc
+example/
+.gitignore
+tslint.json
+npm-debug.log

@@ -8,8 +8,9 @@
         "moduleResolution": "node",
         "esModuleInterop": true,
         "allowSyntheticDefaultImports": true,
-        "sourceMap": true,
+        "sourceMap": false,
         "baseUrl": ".",
+        "outDir": "dist",
         "paths": {
             "@/*": [
                 "src/*"
