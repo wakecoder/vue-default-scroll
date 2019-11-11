@@ -1,0 +1,19 @@
+{
+  "name": "vue-default-scroll",
+  "version": "1.0.0",
+  "description": "A scroll behavior for the vue-router that does what you would expect -- scrolls to the top, or a hash, or a saved position.",
+  "main": "/dist/index.js",
+  "repository": "https://github.com/wakecoder/vue-default-scroll.git",
+  "author": "wakecoder",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "vue-router": "^3.1.3"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
